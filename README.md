@@ -17,24 +17,14 @@ The dashboard highlights key KPIs such as total sales, average sales, number of 
 
 
 ## 🛠️ Tools & Technologies Used
-- Power BI (Dashboard & Visualization)
-- Excel (Data Cleaning & Preprocessing)
-- SQL (Data Analysis - optional)
-- DAX (Calculated Measures)
+- Excel (Data Cleaning & Preprocessing,Data Analysis,Dashboard and visualization)
 
-## 🔄 Project Workflow
+ 🔄 Project Workflow
 1. Data Collection – Used Blinkit dataset
 2. Data Cleaning – Removed inconsistencies and handled missing values
 3. Data Transformation – Created calculated columns and KPIs
-4. Data Modeling – Structured relationships for analysis
-5. Visualization – Designed interactive dashboard in Power BI
-6. Insight Generation – Derived actionable business insights
-
-
-## 📊 Dataset Columns
-<Item_Identifier, Item_Weight, Item_Fat_Content, Item_Visibility, Item_Type,
-Item_MRP, Outlet_Identifier, Outlet_Establishment_Year,
-Outlet_Size, Outlet_Location_Type, Outlet_Type, Item_Outlet_Sales>
+4. Visualization – Designed interactive dashboard in Power BI
+5. Insight Generation – Derived actionable business insights
 
 
 ## 📈 What This Project Demonstrates
@@ -46,31 +36,24 @@ Outlet_Size, Outlet_Location_Type, Outlet_Type, Item_Outlet_Sales>
 
 
 ## 📖 Story
-### 🔹 About the Data (3 Lines)
 - The dataset contains sales data of grocery products across multiple Blinkit outlets.
 - It includes product attributes, outlet characteristics, and sales performance.
 - The data helps understand how different factors influence revenue generation.
-
-
-### 🔹 Business Analysis (3 Key Questions)
 - Which outlet types and locations generate the highest sales?
 - How do product categories contribute to total revenue?
 - What factors impact sales performance (fat content, outlet size, etc.)?
 
   
-### 🔹 Key Insights & Conclusions
+## 🔹 Key Insights & Conclusions
 - 🟡 Total Sales reached **$1.20M**, indicating strong overall business performance.
 - 🟡 **Tier 3 locations generated highest sales (~$472K)**, outperforming Tier 1 and Tier 2.
 - 🟡 **Medium outlet size contributed the most (~$507K)**, showing optimal store efficiency.
 - 🟡 **Regular fat products dominate sales (~65%)**, compared to low-fat items.
 - 🟡 **Supermarket Type1 outlets lead in sales contribution**, making them key revenue drivers.
-- 🟡 Average sales per item is **$141**, with a solid **average rating of 4.0**, indicating good customer satisfaction.
+- 🟡 Average sales per item is **$141**, with a solid **average rating of 4.0**, indicating good customer satisfactio
 
-## 📊 Dashboard Snapshot
-![Blinkit Dashboard](Blinkit dashboard.png)
-
-## 👤 Author
-**Prachi Pathare**
-- Aspiring Data Analyst
+## Author
+   Prachi Pathre Data Analyst| Dashboard Designer | Power BI Developer | Dashboard Developer
   
+  https://github.com/prachipathare36-a11y/
 
